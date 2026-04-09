@@ -5,3 +5,6 @@
   `start button 3    IN =1`  
   `start button 4    IN =2`  
   
+<img width="1223" height="653" alt="image" src="https://github.com/user-attachments/assets/91c54d8e-bcf5-43b0-a601-b066bae3499e" />
+  
+  
