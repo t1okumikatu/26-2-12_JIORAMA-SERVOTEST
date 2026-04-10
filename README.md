@@ -1,3 +1,4 @@
+[じおらまservo制御.pdf](https://github.com/user-attachments/files/26620755/servo.pdf)
 # 26-2-12_JIORAMA-SERVOTEST
 #ジオラマのサーボ単体テスト
   `start button 1    OUT=1`  
